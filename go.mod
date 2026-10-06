@@ -10,14 +10,14 @@ require (
 	github.com/onsi/gomega v1.42.0
 	github.com/prometheus/client_golang v1.23.3-0.20260602051030-3537b20ac86b
 	github.com/urfave/cli/v3 v3.14.0
-	k8s.io/api v0.35.5
+	k8s.io/api v0.36.1
 	k8s.io/apiextensions-apiserver v0.35.5
-	k8s.io/apimachinery v0.35.5
-	k8s.io/client-go v0.35.5
+	k8s.io/apimachinery v0.36.1
+	k8s.io/client-go v0.36.1
 	k8s.io/component-base v0.35.5
 	k8s.io/utils v0.0.0-20260507154919-ff6756f316d2
 	sigs.k8s.io/controller-runtime v0.23.3
-	sigs.k8s.io/gateway-api v1.5.1
+	sigs.k8s.io/gateway-api v1.6.3
 	sigs.k8s.io/yaml v1.6.0
 )
 
@@ -119,7 +119,6 @@ require (
 	github.com/muhlemmer/gu v0.3.1 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/mwitkow/go-conntrack v0.0.0-20190716064945-2f068394615f // indirect
-	github.com/mxk/go-flowrate v0.0.0-20140419014527-cca7078d478f // indirect
 	github.com/nexucis/lamenv v0.5.2 // indirect
 	github.com/open-telemetry/opentelemetry-operator/apis v0.153.0 // indirect
 	github.com/perses/common v0.30.2 // indirect
@@ -183,6 +182,7 @@ require (
 	k8s.io/kubelet v0.35.5 // indirect
 	k8s.io/metrics v0.35.5 // indirect
 	k8s.io/pod-security-admission v0.35.5 // indirect
+	k8s.io/streaming v0.36.1 // indirect
 	sigs.k8s.io/json v0.0.0-20250730193827-2d320260d730 // indirect
 	sigs.k8s.io/randfill v1.0.0 // indirect
 	sigs.k8s.io/structured-merge-diff/v6 v6.4.0 // indirect
